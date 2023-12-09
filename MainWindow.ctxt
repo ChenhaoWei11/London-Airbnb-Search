@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MainWindow
+comment0.text=\n\ Represents\ the\ application\ window\n\ @author\ Chenhao\ Wei\n\ @version\ 06.04.2021\n
+comment1.params=
+comment1.target=MainWindow()
+comment1.text=\n\ constructor\n
+comment2.params=
+comment2.target=void\ loadFile()
+comment3.params=
+comment3.target=void\ updateDisplay()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6
